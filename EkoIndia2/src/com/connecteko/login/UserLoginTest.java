@@ -24,7 +24,7 @@ static WebDriver driver;
 		driver.get("https://connectbeta.eko.co.in/");
 		
 		String username = "beta061117";
-		String password = "Beta@123";
+		String password = "********";
 		
 		
 		Thread.sleep(3000);
